@@ -28,9 +28,8 @@
 
 ## 📱 Скриншоты
 <!-- Сюда лучше вставить реальные скриншоты из папки, которую вы зальете, например в папку Screenshots -->
-| Главное меню | Выбор модели |
-|:---:|:---:|:---:|
-| <a href="https://imgbb.com/"><img src="https://i.ibb.co/jPCVnqPf/2025-11-25-235705.png" alt="2025-11-25-235705" border="0"></a> | <a href="https://imgbb.com/"><img src="https://i.ibb.co/nNqWqmT2/2025-11-25-235816.png" alt="2025-11-25-235816" border="0"></a> |
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/jPCVnqPf/2025-11-25-235705.png" alt="2025-11-25-235705" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/nNqWqmT2/2025-11-25-235816.png" alt="2025-11-25-235816" border="0"></a>
 
 ## 🎥 Демонстрация
 https://disk.yandex.ru/i/D80HEqN7dnOhXA
